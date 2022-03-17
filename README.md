@@ -1,4 +1,4 @@
-<img src="./ITegs-Dark-21-9.JPG" align="center" width="100%" style=border-radius:8px>
+<img src="./ITegs-Dark-21-9.JPG" align="center" width="100%" >
 
 <br />
 <p align="left">
