@@ -1,5 +1,5 @@
 <img src="./ITegs-Dark-21-9.JPG" align="center" width="100%" >
-
+<!--
 <br />
 <p align="left">
 </p>
@@ -27,6 +27,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itegs&show_icons=true&locale=en&layout=compact" alt="itegs" /></p>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itegs&show_icons=true&locale=en" alt="itegs" /></p> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itegs&show_icons=true&locale=en" alt="itegs" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itegs&" alt="itegs" /></p>
+
+-->
